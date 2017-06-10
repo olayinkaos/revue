@@ -1,30 +1,8 @@
-# revue-article
+# revue
+Real-time movie review app built with Vue.js 2.0 and Pusher
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## To setup locally:
+- clone repo - `git clone git@github.com:olayinkaos/revue.git`
+- install dependencies - `cd revue && npm install`
+- edit in your Pusher credentials in `./server/js` and `./src/components/Reviews.vue`. These can be gotten from the Pusher dashboard, after creating an app
+- run app - `npm run dev`
