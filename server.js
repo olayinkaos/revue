@@ -19,7 +19,6 @@ const pusher = new Pusher({
   key:'YOUR_PUSHER_APP_KEY',
   secret:'YOUR_PUSHER_SECRET',
   cluster:'YOUR_CLUSTER'
-  encrypted: true
 });
 
 /*
