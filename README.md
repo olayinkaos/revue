@@ -1,6 +1,8 @@
 # revue
 🎥 Real-time movie review app built with Vue.js 2.0 and Pusher
 
+[View tutorial](https://pusher.com/tutorials/realtime-app-vuejs)
+
 ## To setup locally:
 - Clone repo - `git clone git@github.com:olayinkaos/revue.git`
 - Install dependencies - `cd revue && npm install`
@@ -8,3 +10,11 @@
 - Build and run app - `npm run dev`
 
 > You can see a live demo [here](http://revue-pusher.herokuapp.com/)
+
+## Built With
+
+...
+
+## Acknowledgements
+
+...
